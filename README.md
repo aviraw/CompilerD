@@ -1,5 +1,5 @@
 # CompilerD
 for test
 
-[Ans 1][aviral first.png]
-[Ans 2][aviral second.png]
+[Ans 1][first aviral.PNG]
+[Ans 2][second aviral.PNG]
